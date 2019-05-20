@@ -1,1 +1,1 @@
-[null,{"name":"Gra","temp":"","event-type":"0","actions":[{"gameName":"4POWER.EU - MEGASERWER","gameLink":"","name":"Set Bot Game"}]}]
+[null,{"name":"Gra","temp":"","event-type":"0","actions":[{"gameName":"4POWER.EU - MEGASERWER","gameLink":"","name":"Set Bot Game"},{"status":"3","name":"Set Bot Status"},{"time":"20","measurement":"1","name":"Wait"},{"channel":"4","varName":"","message":"Witam! Jestem DreamBot","storage":"0","varName2":"","name":"Send Message"}]}]
