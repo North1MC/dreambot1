@@ -1,1 +1,1 @@
-[null,{"name":"dragon","temp":"","event-type":"1","actions":[{"status":"1","name":"Set Bot Status"},{"gameName":"4POWER.EU","gameLink":"","name":"Set Bot Game"}]},{"name":"Message","temp":"Wiadomosc","event-type":"2","actions":[{"channel":"4","varName":"","message":"Jestem botem Stworzonym przez Administracje 4POWER.EU","storage":"1","varName2":"Wiadomosc","name":"Send Message"}]}]
+[null,{"name":"Gra","temp":"","event-type":"0","actions":[{"gameName":"4POWER.EU - MEGASERWER","gameLink":"","name":"Set Bot Game"}]}]
