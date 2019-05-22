@@ -1,1 +1,1 @@
-[null,{"name":"Serwer","temp":"","event-type":"0","actions":[{"gameName":"4POWER.EU","gameLink":"","name":"Set Bot Game"},{"status":"3","name":"Set Bot Status"}]}]
+[null,{"name":"event","temp":"","event-type":"0","actions":[{"status":"3","name":"Set Bot Status"},{"gameName":"4POWER.EU","gameLink":"","name":"Set Bot Game"}]}]
